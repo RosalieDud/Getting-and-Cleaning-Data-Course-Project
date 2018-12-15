@@ -39,5 +39,5 @@ In this script:
 - A second independent data set has been created, with the average of each variable for each activity and each subject.
 - A textfile has been created. 
 
-# The comments in the script provide more information about the steps 
+The comments in the script provide more information about the steps 
 
