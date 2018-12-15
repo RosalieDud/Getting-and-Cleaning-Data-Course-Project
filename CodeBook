@@ -1,0 +1,158 @@
+# CodeBook
+
+Description Variables: 
+
+Subject:  Subject ID
+Activity: Type of activity performed when measurements were taken (See 'Activities')
+
+# Features
+
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
+- Mean time for acceleration of body
+ 
+TimeBodyAccelerometerMean()-X                
+TimeBodyAccelerometerMean()-Y             
+TimeBodyAccelerometerMean()-Z
+
+- Mean time of acceleration of gravity
+
+TimeGravityAccelerometerMean()-X             
+TimeGravityAccelerometerMean()-Y             
+TimeGravityAccelerometerMean()-Z 
+
+- Mean time of body acceleration jerk
+
+TimeBodyAccelerometerJerkMean()-X            
+TimeBodyAccelerometerJerkMean()-Y            
+TimeBodyAccelerometerJerkMean()-Z 
+
+- Mean body gyroscope measurement
+
+TimeBodyGyroscopeMean()-X                    
+TimeBodyGyroscopeMean()-Y                    
+TimeBodyGyroscopeMean()-Z  
+
+- Mean jerk signal of body gyroscope
+
+TimeBodyGyroscopeJerkMean()-X                
+TimeBodyGyroscopeJerkMean()-Y                
+TimeBodyGyroscopeJerkMean()-Z
+
+- Mean magnitude of body/gravity (jerk) Accelerotion
+
+TimeBodyAccelerometerMagnitudeMean()         
+TimeGravityAccelerometerMagnitudeMean()      
+TimeBodyAccelerometerJerkMagnitudeMean()     
+
+- Mean magnitude of body gyroscope (jerk) measurement
+
+TimeBodyGyroscopeMagnitudeMean()             
+TimeBodyGyroscopeJerkMagnitudeMean()    
+
+- Mean frequency of body acceleration
+
+FrequencyBodyAccelerometerMean()-X           
+FrequencyBodyAccelerometerMean()-Y           
+FrequencyBodyAccelerometerMean()-Z
+
+- Mean frequency of body accerlation jerk
+
+FrequencyBodyAccelerometerJerkMean()-X       
+FrequencyBodyAccelerometerJerkMean()-Y       
+FrequencyBodyAccelerometerJerkMean()-Z
+
+- Mean frequency of body gyroscope measurement
+
+FrequencyBodyGyroscopeMean()-X              
+FrequencyBodyGyroscopeMean()-Y               
+FrequencyBodyGyroscopeMean()-Z
+
+
+- Mean frequency of body acceleration (jerk) magnitude
+
+FrequencyBodyAccelerometerMagnitudeMean()   
+FrequencyBodyAccelerometerJerkMagnitudeMean()
+
+- Mean frequency of magnitude of body gyroscope (jerk) measurement
+
+FrequencyBodyGyroscopeMagnitudeMean()        
+FrequencyBodyGyroscopeJerkMagnitudeMean() 
+
+- Standard deviation of time for acceleration of body
+
+TimeBodyAccelerometerSTD()-X                 
+TimeBodyAccelerometerSTD()-Y                 
+TimeBodyAccelerometerSTD()-Z  
+
+- Standard deviation of time of acceleration of gravity
+
+TimeGravityAccelerometerSTD()-X              
+TimeGravityAccelerometerSTD()-Y              
+TimeGravityAccelerometerSTD()-Z     
+
+- Standard deviation of time of body acceleration jerk
+
+TimeBodyAccelerometerJerkSTD()-X             
+TimeBodyAccelerometerJerkSTD()-Y             
+TimeBodyAccelerometerJerkSTD()-Z  
+
+- Standard deviation of body gyroscope measurement
+
+TimeBodyGyroscopeSTD()-X                    
+TimeBodyGyroscopeSTD()-Y                     
+TimeBodyGyroscopeSTD()-Z  
+
+- Standard deviation of jerk signal of body
+
+TimeBodyGyroscopeJerkSTD()-X                 
+TimeBodyGyroscopeJerkSTD()-Y                 
+TimeBodyGyroscopeJerkSTD()-Z   
+
+- Standard deviation of magnitude of body/gravity (jerk) Acceloration
+
+TimeBodyAccelerometerMagnitudeSTD()          
+TimeGravityAccelerometerMagnitudeSTD()       
+TimeBodyAccelerometerJerkMagnitudeSTD()
+
+- Standard deviation of magnitude of body gyroscope (jerk) measurement
+
+TimeBodyGyroscopeMagnitudeSTD()              
+TimeBodyGyroscopeJerkMagnitudeSTD()
+
+- Standard deviation of frequency of body acceleration
+
+FrequencyBodyAccelerometerSTD()-X            
+FrequencyBodyAccelerometerSTD()-Y            
+FrequencyBodyAccelerometerSTD()-Z  
+
+- Standard deviation frequency of body accerlation jerk
+
+FrequencyBodyAccelerometerJerkSTD()-X        
+FrequencyBodyAccelerometerJerkSTD()-Y        
+FrequencyBodyAccelerometerJerkSTD()-Z 
+
+- Standard deviation frequency of body gyroscope measurement
+
+FrequencyBodyGyroscopeSTD()-X                
+FrequencyBodyGyroscopeSTD()-Y                
+FrequencyBodyGyroscopeSTD()-Z      
+
+- Standard deviation of frequency of body acceleration (jerk) magnitude
+
+FrequencyBodyAccelerometerMagnitudeSTD()     
+FrequencyBodyAccelerometerJerkMagnitudeSTD() 
+
+- Standard deviation frequency of magnitude of body gyroscope (jerk) measurement
+
+FrequencyBodyGyroscopeMagnitudeSTD()    
+FrequencyBodyGyroscopeJerkMagnitudeSTD()
+
+# Activities:
+
+- Walking
+- Standing
+- Laying
+- Walking upstairs
+- Walking downstairs
+- Sitting
