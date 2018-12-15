@@ -8,6 +8,8 @@ This is the data used for this assignment:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+# Repository
+
 This repository consist of:
 
 - This README file, which tells you more about the dataset and how it is created
