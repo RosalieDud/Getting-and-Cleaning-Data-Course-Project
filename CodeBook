@@ -150,9 +150,11 @@ FrequencyBodyGyroscopeJerkMagnitudeSTD()
 
 # Activities:
 
-- Walking
-- Standing
-- Laying
-- Walking upstairs
-- Walking downstairs
-- Sitting
+- Walking: Subject was walking
+- Standing: Subject was standing
+- Laying: Subject was laying
+- Walking upstairs: Subject was walking upstairs
+- Walking downstairs: Subject was walking downstairs
+- Sitting: Subject was sitting
+
+See the comments in the R Script for more information about the transformation of the variables in the original dataset. 
